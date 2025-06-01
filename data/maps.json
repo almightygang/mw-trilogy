@@ -1,27 +1,127 @@
 [
-    {
-        "name": "Battlefield",
-        "description": "A large open area with diverse terrain, including hills, forests, and rivers. Ideal for both long-range and close-quarters combat.",
-        "layout": "Open-world with multiple points of interest, including a central town and several outposts."
-    },
-    {
-        "name": "Urban Warfare",
-        "description": "A densely populated city environment with narrow streets and tall buildings. Perfect for tactical gameplay and ambushes.",
-        "layout": "Multi-level structures with rooftops and underground passages."
-    },
-    {
-        "name": "Desert Storm",
-        "description": "A vast desert landscape with limited cover and visibility. Players must use vehicles and teamwork to navigate effectively.",
-        "layout": "Wide open spaces with occasional rocky outcrops and small villages."
-    },
-    {
-        "name": "Jungle Ambush",
-        "description": "A thick jungle environment that provides ample cover and opportunities for stealth. Players can use the foliage to their advantage.",
-        "layout": "Dense vegetation with hidden paths and water bodies."
-    },
-    {
-        "name": "Snowy Tundra",
-        "description": "A cold, snowy landscape that challenges players with visibility issues and harsh weather conditions. Great for sniping and long-range engagements.",
-        "layout": "Open fields with scattered buildings and natural cover."
-    }
+  // Call of Duty 4: Modern Warfare
+  {
+    "name": "Crash",
+    "description": "A medium-sized map set in a Middle Eastern town with a crashed helicopter at its center.",
+    "layout": "images/maps/crash.png"
+  },
+  {
+    "name": "Crossfire",
+    "description": "A long, urban street with plenty of sniping opportunities and close-quarters combat in the buildings.",
+    "layout": "images/maps/crossfire.png"
+  },
+  {
+    "name": "Backlot",
+    "description": "A construction site with lots of verticality and close-quarters combat.",
+    "layout": "images/maps/backlot.png"
+  },
+  {
+    "name": "Strike",
+    "description": "A medium-sized urban map with a central plaza and multiple flanking routes.",
+    "layout": "images/maps/strike.png"
+  },
+  {
+    "name": "Overgrown",
+    "description": "A large rural map with open fields and abandoned buildings, ideal for snipers.",
+    "layout": "images/maps/overgrown.png"
+  },
+  {
+    "name": "Vacant",
+    "description": "An abandoned office complex with tight corridors and open outdoor areas.",
+    "layout": "images/maps/vacant.png"
+  },
+  {
+    "name": "Shipment",
+    "description": "The smallest map in CoD4, known for its chaotic and fast-paced action.",
+    "layout": "images/maps/shipment.png"
+  },
+  {
+    "name": "Bog",
+    "description": "A night-time junkyard with lots of cover and long sightlines.",
+    "layout": "images/maps/bog.png"
+  },
+
+  // Modern Warfare 2
+  {
+    "name": "Terminal",
+    "description": "An airport terminal with tight corridors and open spaces. Iconic for its memorable layout.",
+    "layout": "images/maps/terminal.png"
+  },
+  {
+    "name": "Highrise",
+    "description": "A rooftop construction site with vertical gameplay and plenty of flanking routes.",
+    "layout": "images/maps/highrise.png"
+  },
+  {
+    "name": "Rust",
+    "description": "A small, fast-paced map set in a desert oil yard. Perfect for quick matches.",
+    "layout": "images/maps/rust.png"
+  },
+  {
+    "name": "Favela",
+    "description": "A multi-level map set in a Brazilian shantytown. Offers a mix of close and long-range engagements.",
+    "layout": "images/maps/favela.png"
+  },
+  {
+    "name": "Scrapyard",
+    "description": "A medium-sized airplane graveyard with lots of cover and open spaces.",
+    "layout": "images/maps/scrapyard.png"
+  },
+  {
+    "name": "Afghan",
+    "description": "A rocky desert map with a crashed plane and plenty of sniping spots.",
+    "layout": "images/maps/afghan.png"
+  },
+  {
+    "name": "Skidrow",
+    "description": "An urban map with tight corridors and a central street for intense firefights.",
+    "layout": "images/maps/skidrow.png"
+  },
+  {
+    "name": "Invasion",
+    "description": "A war-torn city with a mix of open areas and close-quarters combat.",
+    "layout": "images/maps/invasion.png"
+  },
+
+  // Modern Warfare 3
+  {
+    "name": "Dome",
+    "description": "A small, chaotic map set around a derelict radar dome. Known for its non-stop action.",
+    "layout": "images/maps/dome.png"
+  },
+  {
+    "name": "Hardhat",
+    "description": "A construction site with tight corners and open areas, perfect for fast-paced gameplay.",
+    "layout": "images/maps/hardhat.png"
+  },
+  {
+    "name": "Arkaden",
+    "description": "A German shopping mall with a mix of open and close-quarters combat.",
+    "layout": "images/maps/arkaden.png"
+  },
+  {
+    "name": "Mission",
+    "description": "A hillside village with lots of elevation changes and flanking routes.",
+    "layout": "images/maps/mission.png"
+  },
+  {
+    "name": "Underground",
+    "description": "A London Underground station with tight corridors and open streets.",
+    "layout": "images/maps/underground.png"
+  },
+  {
+    "name": "Resistance",
+    "description": "A Parisian neighborhood with winding streets and multi-level buildings.",
+    "layout": "images/maps/resistance.png"
+  },
+  {
+    "name": "Seatown",
+    "description": "A coastal town with narrow alleys and open courtyards.",
+    "layout": "images/maps/seatown.png"
+  },
+  {
+    "name": "Fallen",
+    "description": "A ruined Russian village with a mix of open and close-quarters combat.",
+    "layout": "images/maps/fallen.png"
+  }
 ]
