@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Assault Rifle",
+        "type": "Rifle",
+        "damage": 30,
+        "range": "Medium",
+        "description": "A versatile weapon suitable for various combat situations."
+    },
+    {
+        "name": "Sniper Rifle",
+        "type": "Rifle",
+        "damage": 90,
+        "range": "Long",
+        "description": "A high-precision weapon designed for long-range engagements."
+    },
+    {
+        "name": "Shotgun",
+        "type": "Shotgun",
+        "damage": 50,
+        "range": "Short",
+        "description": "A powerful close-range weapon effective in tight spaces."
+    },
+    {
+        "name": "Submachine Gun",
+        "type": "SMG",
+        "damage": 25,
+        "range": "Short to Medium",
+        "description": "A lightweight weapon with a high rate of fire, ideal for close combat."
+    },
+    {
+        "name": "Grenade Launcher",
+        "type": "Launcher",
+        "damage": 100,
+        "range": "Medium",
+        "description": "A weapon that fires explosive grenades, effective against groups of enemies."
+    },
+    {
+        "name": "Pistol",
+        "type": "Handgun",
+        "damage": 20,
+        "range": "Short",
+        "description": "A reliable sidearm for close-quarters combat."
+    }
+]

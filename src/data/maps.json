@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Battlefield",
+        "description": "A large open area with diverse terrain, including hills, forests, and rivers. Ideal for both long-range and close-quarters combat.",
+        "layout": "Open-world with multiple points of interest, including a central town and several outposts."
+    },
+    {
+        "name": "Urban Warfare",
+        "description": "A densely populated city environment with narrow streets and tall buildings. Perfect for tactical gameplay and ambushes.",
+        "layout": "Multi-level structures with rooftops and underground passages."
+    },
+    {
+        "name": "Desert Storm",
+        "description": "A vast desert landscape with limited cover and visibility. Players must use vehicles and teamwork to navigate effectively.",
+        "layout": "Wide open spaces with occasional rocky outcrops and small villages."
+    },
+    {
+        "name": "Jungle Ambush",
+        "description": "A thick jungle environment that provides ample cover and opportunities for stealth. Players can use the foliage to their advantage.",
+        "layout": "Dense vegetation with hidden paths and water bodies."
+    },
+    {
+        "name": "Snowy Tundra",
+        "description": "A cold, snowy landscape that challenges players with visibility issues and harsh weather conditions. Great for sniping and long-range engagements.",
+        "layout": "Open fields with scattered buildings and natural cover."
+    }
+]
