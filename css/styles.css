@@ -36,7 +36,10 @@ nav a:hover {
     overflow: hidden;
 }
 
-.map, .weapon {
+.map {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
     background: #fff;
     margin: 20px 0;
     padding: 15px;
@@ -44,7 +47,31 @@ nav a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.map h2, .weapon h2 {
+.map img {
+    max-width: 220px;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.map h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.map p {
+    margin: 0 0 10px 0;
+}
+
+.weapon {
+    background: #fff;
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.weapon h2 {
     margin-top: 0;
 }
 
