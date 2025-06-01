@@ -3,125 +3,125 @@
   {
     "name": "Crash",
     "description": "A medium-sized map set in a Middle Eastern town with a crashed helicopter at its center.",
-    "layout": "images/maps/crash.png"
+    "layout": "images/maps/crash.webp"
   },
   {
     "name": "Crossfire",
     "description": "A long, urban street with plenty of sniping opportunities and close-quarters combat in the buildings.",
-    "layout": "images/maps/crossfire.png"
+    "layout": "images/maps/crossfire.webp"
   },
   {
     "name": "Backlot",
     "description": "A construction site with lots of verticality and close-quarters combat.",
-    "layout": "images/maps/backlot.png"
+    "layout": "images/maps/backlot.webp"
   },
   {
     "name": "Strike",
     "description": "A medium-sized urban map with a central plaza and multiple flanking routes.",
-    "layout": "images/maps/strike.png"
+    "layout": "images/maps/strike.webp"
   },
   {
     "name": "Overgrown",
     "description": "A large rural map with open fields and abandoned buildings, ideal for snipers.",
-    "layout": "images/maps/overgrown.png"
+    "layout": "images/maps/overgrown.webp"
   },
   {
     "name": "Vacant",
     "description": "An abandoned office complex with tight corridors and open outdoor areas.",
-    "layout": "images/maps/vacant.png"
+    "layout": "images/maps/vacant.webp"
   },
   {
     "name": "Shipment",
     "description": "The smallest map in CoD4, known for its chaotic and fast-paced action.",
-    "layout": "images/maps/shipment.png"
+    "layout": "images/maps/shipment.webp"
   },
   {
     "name": "Bog",
     "description": "A night-time junkyard with lots of cover and long sightlines.",
-    "layout": "images/maps/bog.png"
+    "layout": "images/maps/bog.webp"
   },
 
   // Modern Warfare 2
   {
     "name": "Terminal",
     "description": "An airport terminal with tight corridors and open spaces. Iconic for its memorable layout.",
-    "layout": "images/maps/terminal.png"
+    "layout": "images/maps/terminal.webp"
   },
   {
     "name": "Highrise",
     "description": "A rooftop construction site with vertical gameplay and plenty of flanking routes.",
-    "layout": "images/maps/highrise.png"
+    "layout": "images/maps/highrise.webp"
   },
   {
     "name": "Rust",
     "description": "A small, fast-paced map set in a desert oil yard. Perfect for quick matches.",
-    "layout": "images/maps/rust.png"
+    "layout": "images/maps/rust.webp"
   },
   {
     "name": "Favela",
     "description": "A multi-level map set in a Brazilian shantytown. Offers a mix of close and long-range engagements.",
-    "layout": "images/maps/favela.png"
+    "layout": "images/maps/favela.webp"
   },
   {
     "name": "Scrapyard",
     "description": "A medium-sized airplane graveyard with lots of cover and open spaces.",
-    "layout": "images/maps/scrapyard.png"
+    "layout": "images/maps/scrapyard.webp"
   },
   {
     "name": "Afghan",
     "description": "A rocky desert map with a crashed plane and plenty of sniping spots.",
-    "layout": "images/maps/afghan.png"
+    "layout": "images/maps/afghan.webp"
   },
   {
     "name": "Skidrow",
     "description": "An urban map with tight corridors and a central street for intense firefights.",
-    "layout": "images/maps/skidrow.png"
+    "layout": "images/maps/skidrow.webp"
   },
   {
     "name": "Invasion",
     "description": "A war-torn city with a mix of open areas and close-quarters combat.",
-    "layout": "images/maps/invasion.png"
+    "layout": "images/maps/invasion.webp"
   },
 
   // Modern Warfare 3
   {
     "name": "Dome",
     "description": "A small, chaotic map set around a derelict radar dome. Known for its non-stop action.",
-    "layout": "images/maps/dome.png"
+    "layout": "images/maps/dome.webp"
   },
   {
     "name": "Hardhat",
     "description": "A construction site with tight corners and open areas, perfect for fast-paced gameplay.",
-    "layout": "images/maps/hardhat.png"
+    "layout": "images/maps/hardhat.webp"
   },
   {
     "name": "Arkaden",
     "description": "A German shopping mall with a mix of open and close-quarters combat.",
-    "layout": "images/maps/arkaden.png"
+    "layout": "images/maps/arkaden.webp"
   },
   {
     "name": "Mission",
     "description": "A hillside village with lots of elevation changes and flanking routes.",
-    "layout": "images/maps/mission.png"
+    "layout": "images/maps/mission.webp"
   },
   {
     "name": "Underground",
     "description": "A London Underground station with tight corridors and open streets.",
-    "layout": "images/maps/underground.png"
+    "layout": "images/maps/underground.webp"
   },
   {
     "name": "Resistance",
     "description": "A Parisian neighborhood with winding streets and multi-level buildings.",
-    "layout": "images/maps/resistance.png"
+    "layout": "images/maps/resistance.webp"
   },
   {
     "name": "Seatown",
     "description": "A coastal town with narrow alleys and open courtyards.",
-    "layout": "images/maps/seatown.png"
+    "layout": "images/maps/seatown.webp"
   },
   {
     "name": "Fallen",
     "description": "A ruined Russian village with a mix of open and close-quarters combat.",
-    "layout": "images/maps/fallen.png"
+    "layout": "images/maps/fallen.webp"
   }
 ]
