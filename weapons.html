@@ -20,7 +20,19 @@
     <main>
         <section id="weapons-list">
             <h2>Available Weapons</h2>
-            <ul id="weapons"></ul>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Image</th>
+                        <th>Location in JSON</th>
+                    </tr>
+                </thead>
+                <tbody id="weapons-table-body">
+                    <!-- Weapons will be loaded here -->
+                </tbody>
+            </table>
         </section>
     </main>
     <script src="js/weapons.js"></script>
