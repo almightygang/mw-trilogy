@@ -1,6 +1,6 @@
-const mapsContainer = document.getElementById('maps-container');
+const mapsContainer = document.getElementById('maps-list');
 
-fetch('../data/maps.json')
+fetch('data/maps.json')
     .then(response => response.json())
     .then(maps => {
         maps.forEach(map => {
