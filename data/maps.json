@@ -1,5 +1,4 @@
 [
-  // Call of Duty 4: Modern Warfare
   {
     "name": "Crash",
     "description": "A medium-sized map set in a Middle Eastern town with a crashed helicopter at its center.",
@@ -40,8 +39,6 @@
     "description": "A night-time junkyard with lots of cover and long sightlines.",
     "layout": "images/maps/bog.webp"
   },
-
-  // Modern Warfare 2
   {
     "name": "Terminal",
     "description": "An airport terminal with tight corridors and open spaces. Iconic for its memorable layout.",
@@ -82,8 +79,6 @@
     "description": "A war-torn city with a mix of open areas and close-quarters combat.",
     "layout": "images/maps/invasion.webp"
   },
-
-  // Modern Warfare 3
   {
     "name": "Dome",
     "description": "A small, chaotic map set around a derelict radar dome. Known for its non-stop action.",
